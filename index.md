@@ -20,12 +20,14 @@ Presentation of past years have often had a serious look, evoking authority. But
      
   I used the shape to create this logotype
   
-  <img src="animace.gif"
+  <img src="4.png"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
   
   The other key element of the communication would be character drawings ceplementing messages, communication and visuals of the competition. They are supposed to add to the attractiveness, point to some of the fun older ways of presenting yoyo. And also reminisc to the somewhat counter-culture roots of yoyoing, as it i would maybe suprisingly often find itself slotted into the same category with skateboarding, graffiti or street dance.
   
   
+  <img src="5.png"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
  
  
  
