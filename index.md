@@ -30,7 +30,7 @@ Presentation of past years have often had a serious look, evoking authority. But
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
  
  
-  <img src="comp 1_5.gif"
+  <img src="Comp 1_5.gif"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
  
  ...
