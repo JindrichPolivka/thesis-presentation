@@ -45,11 +45,13 @@ Finally a look at the merchandising in the form of a yoyo nad  a yoyo holder
    <img src="6.png"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
      
-       <img src="7.png"
+   <img src="7.png"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+   THANK YOU
+   <img src="8.png"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">  
      
-    <img src="8.png"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">     
+  
 
  
  ...
