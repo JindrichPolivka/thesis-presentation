@@ -34,8 +34,23 @@ social media communication with added motion and an exaple of how photos are com
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
        <img src="RED.gif"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+
+An intro for post competition released videos of all performances
+
+ <img src="animace.gif"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+
+Finally a look at the merchandising in the form of a yoyo nad  a yoyo holder
+  
+   <img src="6.PNG"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+       <img src="7.PNG"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+     
+    <img src="8.PNG"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">     
+
  
  ...
  
- <img src="animace.gif"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+
