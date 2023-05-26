@@ -34,7 +34,7 @@ social media communication with added motion and an exaple of how photos are com
   <img src="Comp 1_5.gif"
      style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
        <img src="RED.gif"
-     style="display:block;float:none;margin-left:auto;margin-right:auto;width:70%">
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:67%">
 
 An intro for post competition released videos of all performances
 
