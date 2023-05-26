@@ -13,6 +13,23 @@ Presentation of past years have often had a serious look, evoking authority. But
   
  Other place for exposute for yoyo is from the ads, products and campaings of yoyo manufacturers. Where we can see the more fun, casual approach, that more accurately represents the nature of yoyo and even the mood of competitions, which might have serious stakes, but are carried out in a loose fun atmosphere.
  
+ Startin off with the logo, the aim was to create something subdued but with a distinct personality. by the nature of how yoyoing works there are some formations and elements you find yorself in most often, they are usually a downwards pointing triangle with it's two top vertices being the hands and the bottom one the yoyo. 
+
+<img src="3.png"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+     
+  I used the shape to create this logotype
+  
+  <img src="animace.gif"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
+  
+  The other key element of the communication would be character drawings ceplementing messages, communication and visuals of the competition. They are supposed to add to the attractiveness, point to some of the fun older ways of presenting yoyo. And also reminisc to the somewhat counter-culture roots of yoyoing, as it i would maybe suprisingly often find itself slotted into the same category with skateboarding, graffiti or street dance.
+  
+  
+ 
+ 
+ 
+ 
  ...
  
  <img src="animace.gif"
