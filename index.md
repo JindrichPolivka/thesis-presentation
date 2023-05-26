@@ -9,6 +9,9 @@ Presentation of past years have often had a serious look, evoking authority. But
   
   xx
   
- Other place for exposute for yooy is from the ads, products and campaings of yoyo manufacturers. Where we can see the more fun, casual presentation, that more accurately represents the nature of yoyo and even the mood of competitions, which might have serious stakes, but are carried out in a loose fun atmosphere.
+ Other place for exposute for yoyo is from the ads, products and campaings of yoyo manufacturers. Where we can see the more fun, casual approach, that more accurately represents the nature of yoyo and even the mood of competitions, which might have serious stakes, but are carried out in a loose fun atmosphere.
  
  ...
+ 
+ <img src="animace.gif"
+     style="display:block;float:none;margin-left:auto;margin-right:auto;width:100%">
